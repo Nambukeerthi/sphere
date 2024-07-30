@@ -1,5 +1,5 @@
 streamlit
-python==3.12.0
+python
 PIL
 PyPI 
 uv 
