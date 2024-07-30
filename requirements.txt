@@ -2,7 +2,6 @@ streamlit
 pip 
 uv  
 SQLAlchemy
-tkinter
 certifi
 setuptools
 aiobotocore==1.34.137
