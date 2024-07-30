@@ -1,8 +1,6 @@
 streamlit
 pip 
-uv 
-PIL
-PyPI 
+uv  
 SQLAlchemy
 tkinter
 certifi
