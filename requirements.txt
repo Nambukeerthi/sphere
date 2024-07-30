@@ -1,14 +1,13 @@
 streamlit
 pip 
 uv 
-python
 PIL
 PyPI 
 SQLAlchemy
 tkinter
 certifi
 setuptools
-aiobotocore==1.34.138
+aiobotocore==1.34.137
 appdirs==1.4.4
 astunparse==1.6.3
 atomicwrites==1.4.0
